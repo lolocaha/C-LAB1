@@ -20,6 +20,7 @@
 
 ### Тестирование
 
+<img width="481" height="84" alt="изображение" src="https://github.com/user-attachments/assets/3a704450-8433-4704-8f33-8c23be753047" />
 
 
 ## Задача 4. Есть ли позитив
