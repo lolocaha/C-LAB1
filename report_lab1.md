@@ -76,7 +76,9 @@
 
 ### Тестирование
 Правильный ввод :<img width="210" height="67" alt="изображение" src="https://github.com/user-attachments/assets/bab7daa9-cbfc-48f0-ba5d-c7f8cebe1139" />
+
 0 делит число:   <img width="236" height="73" alt="изображение" src="https://github.com/user-attachments/assets/ce1a30b2-5804-4669-a9f4-46dcbf76e1fb" />
+
 Проверка на ввод: <img width="315" height="42" alt="изображение" src="https://github.com/user-attachments/assets/0171aec3-3bca-4244-a25c-c0239317c600" />
 
 
@@ -181,9 +183,12 @@
 
 ### Тестирование
 <img width="212" height="44" alt="изображение" src="https://github.com/user-attachments/assets/54471d7f-d33f-4e1b-829a-6cc444d1fb38" />
+
 <img width="226" height="45" alt="изображение" src="https://github.com/user-attachments/assets/17498705-1d91-42f5-b2f2-4e0f771b379f" />
 
-Проверка на ввод: <img width="364" height="49" alt="изображение" src="https://github.com/user-attachments/assets/999ae86f-5814-433d-9c18-cfa1d3723472" />
+
+Проверка на ввод: 
+<img width="364" height="49" alt="изображение" src="https://github.com/user-attachments/assets/999ae86f-5814-433d-9c18-cfa1d3723472" />
 
 
 ## Задача 10. Вывод дней недели
