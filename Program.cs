@@ -282,7 +282,7 @@ namespace ConsoleApp1
             return result.ToArray();
         }
 
-        // Вспомогательный метод: ввод целого числа с проверкой.
+        // Ввод целого числа с проверкой
         private int ReadInt(string message)
         {
             int n;
@@ -295,7 +295,7 @@ namespace ConsoleApp1
             return n;
         }
 
-        // Вспомогательный метод: ввод целого числа в диапазоне.
+        // Ввод целого числа в диапазоне
         private int ReadIntInRange(string message, int min, int max)
         {
             int n = ReadInt(message);
@@ -307,7 +307,7 @@ namespace ConsoleApp1
             return n;
         }
 
-        // Вспомогательный метод: ввод одного символа.
+        // Ввод одного символа
         private char ReadChar(string message)
         {
             char c;
@@ -399,7 +399,7 @@ namespace ConsoleApp1
                     case "1.2":
                         {
                             int x = p.ReadInt("Введите число (не меньше двух цифр): ");
-                            while (Math.Abs(x) < 10)
+                            while (x > -10 && x < 10)
                             {
                                 x = p.ReadInt("В числе должно быть не меньше двух цифр: ");
                             }
