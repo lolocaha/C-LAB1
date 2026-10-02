@@ -75,7 +75,9 @@
 4. Возвращаем результат логического «или».
 
 ### Тестирование
-<img width="210" height="67" alt="изображение" src="https://github.com/user-attachments/assets/bab7daa9-cbfc-48f0-ba5d-c7f8cebe1139" />
+Правильный ввод :<img width="210" height="67" alt="изображение" src="https://github.com/user-attachments/assets/bab7daa9-cbfc-48f0-ba5d-c7f8cebe1139" />
+0 делит число:   <img width="236" height="73" alt="изображение" src="https://github.com/user-attachments/assets/ce1a30b2-5804-4669-a9f4-46dcbf76e1fb" />
+Проверка на ввод: <img width="315" height="42" alt="изображение" src="https://github.com/user-attachments/assets/0171aec3-3bca-4244-a25c-c0239317c600" />
 
 
 
@@ -95,6 +97,8 @@
 4. После четырёх вызовов (пять чисел) выводим итог.
 
 ### Тестирование
+Правильный ввод: <img width="255" height="211" alt="изображение" src="https://github.com/user-attachments/assets/fd6b33aa-ccc7-4f8a-831c-3b8568b21bf4" />
+Проверка на ввод:<img width="314" height="124" alt="изображение" src="https://github.com/user-attachments/assets/03ddb15d-f00f-4311-b908-3ad4212c5b58" />
 
 
 
@@ -114,6 +118,8 @@
 2. Иначе приводим x к типу double и делим на y, чтобы деление не было целочисленным: `(double)x / y`.
 
 ### Тестирование
+Правильный ввод: <img width="186" height="65" alt="изображение" src="https://github.com/user-attachments/assets/ee69787c-b7df-45fc-8be1-3907b1857e17" />
+Деление на 0:    <img width="184" height="55" alt="изображение" src="https://github.com/user-attachments/assets/3248a91c-a9ec-4ce7-99e9-d0cc80a169dd" />
 
 
 
@@ -133,6 +139,8 @@
 4. Строка формируется интерполяцией: `$"{x} > {y}"`.
 
 ### Тестирование
+Правильный ввод и проверка: <img width="301" height="88" alt="изображение" src="https://github.com/user-attachments/assets/d5455b63-ee7c-422e-8ba7-3d6cc99a1dbb" />
+Равные числа:  <img width="195" height="65" alt="изображение" src="https://github.com/user-attachments/assets/51ac430e-9eb2-4f76-890e-34d95fd19fe9" />
 
 
 ## Задача 6. Тройная сумма
@@ -149,6 +157,8 @@
 2. Если выполняется хотя бы один, возвращаем true, иначе false (логическое «или»).
 
 ### Тестирование
+Правильный ввод: <img width="189" height="89" alt="изображение" src="https://github.com/user-attachments/assets/65c95d48-79b0-46d9-8847-63a1c64b3f60" />
+<img width="214" height="83" alt="изображение" src="https://github.com/user-attachments/assets/233a80be-b20e-40c1-a888-7f4a5d49201c" />
 
 
 ## Задача 8. Возраст
@@ -170,7 +180,10 @@
 4. Во всех остальных случаях возвращаем «лет».
 
 ### Тестирование
+<img width="212" height="44" alt="изображение" src="https://github.com/user-attachments/assets/54471d7f-d33f-4e1b-829a-6cc444d1fb38" />
+<img width="226" height="45" alt="изображение" src="https://github.com/user-attachments/assets/17498705-1d91-42f5-b2f2-4e0f771b379f" />
 
+Проверка на ввод: <img width="364" height="49" alt="изображение" src="https://github.com/user-attachments/assets/999ae86f-5814-433d-9c18-cfa1d3723472" />
 
 
 ## Задача 10. Вывод дней недели
@@ -190,6 +203,8 @@
 
 ### Тестирование
 
+<img width="400" height="42" alt="изображение" src="https://github.com/user-attachments/assets/a16ec34a-0a15-43a7-b879-fb67997964ef" />
+<img width="485" height="164" alt="изображение" src="https://github.com/user-attachments/assets/9d2e284b-5c6b-4bfc-b3d5-cdb2425cf3f0" />
 
 
 # Задание 3. Циклы
@@ -210,6 +225,8 @@
 4. Возвращаем строку.
 
 ### Тестирование
+<img width="341" height="58" alt="изображение" src="https://github.com/user-attachments/assets/ece39036-23fd-4dd9-9e7d-26aa014cfd91" />
+<img width="410" height="48" alt="изображение" src="https://github.com/user-attachments/assets/f889dee0-8d95-4691-ad5a-e4482c24c057" />
 
 
 
@@ -228,6 +245,8 @@
 3. Возвращаем результат.
 
 ### Тестирование
+<img width="324" height="66" alt="изображение" src="https://github.com/user-attachments/assets/2cde5430-4f94-430b-ba61-519533b4cb5f" />
+<img width="326" height="67" alt="изображение" src="https://github.com/user-attachments/assets/da7894e0-4e3f-4728-b7c4-381ff0785bf4" />
 
 
 
@@ -248,6 +267,8 @@
 5. Если цикл завершился без несовпадений, возвращаем true.
 
 ### Тестирование
+<img width="344" height="51" alt="изображение" src="https://github.com/user-attachments/assets/c7cca3f4-adfd-4c51-b066-8bb9695d1942" />
+<img width="345" height="59" alt="изображение" src="https://github.com/user-attachments/assets/aff412f7-66c9-4618-80ed-cd3157bf2575" />
 
 
 
@@ -265,6 +286,7 @@
 2. В каждой строке выводим i символов '*' (`new string('*', i)`) и переводим строку.
 
 ### Тестирование
+<img width="352" height="215" alt="изображение" src="https://github.com/user-attachments/assets/51175a05-18f3-4e90-a5d5-59da5e5ee424" />
 
 
 ## Задача 10. Угадайка
@@ -284,6 +306,9 @@
 6. Выводим сообщение об успехе и количество попыток.
 
 ### Тестирование
+<img width="243" height="215" alt="изображение" src="https://github.com/user-attachments/assets/e6a478d3-08ab-4982-857a-75a1fe261504" />
+<img width="421" height="208" alt="изображение" src="https://github.com/user-attachments/assets/7d7644c1-3d1c-4489-baa7-f77ca2e80e5d" />
+<img width="255" height="219" alt="изображение" src="https://github.com/user-attachments/assets/672f538d-a45b-4a6e-a8b1-6682d92abb50" />
 
 
 
@@ -305,6 +330,7 @@
 4. После цикла возвращаем сохранённый индекс (последнее совпадение либо -1).
 
 ### Тестирование
+<img width="356" height="160" alt="изображение" src="https://github.com/user-attachments/assets/59be3256-21e8-402a-ade1-6e1baf199678" />
 
 
 
@@ -325,6 +351,7 @@
 
 ### Тестирование
 
+<img width="341" height="185" alt="изображение" src="https://github.com/user-attachments/assets/5b9aed54-f87b-46fb-b7ee-75bb49406a8e" />
 
 
 ## Задача 6. Реверс
@@ -343,7 +370,8 @@
 
 ### Тестирование
 
-]
+<img width="328" height="135" alt="изображение" src="https://github.com/user-attachments/assets/f849faeb-c276-4ac5-9b89-40dd7397fc2d" />
+
 
 ## Задача 8. Объединение
 
@@ -362,6 +390,7 @@
 
 ### Тестирование
 
+<img width="375" height="210" alt="изображение" src="https://github.com/user-attachments/assets/4f60af3b-2489-4e8b-aa52-012c9ae37cd0" />
 
 
 ## Задача 10. Удалить негатив
@@ -379,4 +408,5 @@
 3. Преобразуем список в массив и возвращаем.
 
 ### Тестирование
+<img width="320" height="138" alt="изображение" src="https://github.com/user-attachments/assets/1530f05e-1d6d-4ae3-805e-63e0d98b6e24" />
 
