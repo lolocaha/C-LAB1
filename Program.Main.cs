@@ -124,7 +124,7 @@ namespace ConsoleApp1
                         }
                     case "3.8":
                         {
-                            int x = p.ReadIntInRange("Введите высоту x (��е меньше 1): ", 1, 100);
+                            int x = p.ReadIntInRange("Введите высоту x (не меньше 1): ", 1, 100);
                             p.LeftTriangle(x);
                             break;
                         }
